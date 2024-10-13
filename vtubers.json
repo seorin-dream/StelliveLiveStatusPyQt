@@ -1,0 +1,53 @@
+{
+    "kanna": {
+        "name": "아이리 칸나",
+        "image": "stellive_image/1_Kanna.png",
+        "channel_id": "f722959d1b8e651bd56209b343932c01"
+    },
+    "uni": {
+        "name": "아야츠노 유니",
+        "image": "stellive_image/2_Yuni.png",
+        "channel_id": "45e71a76e949e16a34764deb962f9d9f"
+    },
+    "hina": {
+        "name": "시라유키 히나",
+        "image": "stellive_image/3_Hina.png",
+        "channel_id": "b044e3a3b9259246bc92e863e7d3f3b8"
+    },
+    "mashiro": {
+        "name": "네네코 마시로",
+        "image": "stellive_image/4_Mashiro.png",
+        "channel_id": "4515b179f86b67b4981e16190817c580"
+    },
+    "rize": {
+        "name": "아카네 리제",
+        "image": "stellive_image/5_Rize.png",
+        "channel_id": "4325b1d5bbc321fad3042306646e2e50"
+    },
+    "tabi": {
+        "name": "아라하시 타비",
+        "image": "stellive_image/6_Tabi.png",
+        "channel_id": "a6c4ddb09cdb160478996007bff35296"
+    },
+    "shibuki": {
+        "name": "텐코 시부키",
+        "image": "stellive_image/7_Shibuki.png",
+        "channel_id": "64d76089fba26b180d9c9e48a32600d9"
+    },
+    "rin": {
+        "name": "아오쿠모 린",
+        "image": "stellive_image/8_Rin.png",
+        "channel_id": "516937b5f85cbf2249ce31b0ad046b0f"
+    },
+    "nana": {
+        "name": "하나코 나나",
+        "image": "stellive_image/9_Nana.png",
+        "channel_id": "4d812b586ff63f8a2946e64fa860bbf5"
+    }
+    ,
+    "riko": {
+        "name": "유즈하 리코",
+        "image": "stellive_image/10_Riko.png",
+        "channel_id": "8fd39bb8de623317de90654718638b10"
+    }
+}
