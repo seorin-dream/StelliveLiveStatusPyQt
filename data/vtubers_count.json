@@ -1,0 +1,46 @@
+{
+    "kanna": {
+        "name": "아이리 칸나",
+        "count": 0
+    },
+    "uni": {
+        "name": "아야츠노 유니",
+        "count": 5
+    },
+    "hina": {
+        "name": "시라유키 히나",
+        "count": 0
+    },
+    "mashiro": {
+        "name": "네네코 마시로",
+        "count": 0
+    },
+    "rize": {
+        "name": "아카네 리제",
+        "count": 0
+    },
+    "tabi": {
+        "name": "아라하시 타비",
+        "count": 4
+    },
+    "shibuki": {
+        "name": "텐코 시부키",
+        "count": 3
+    },
+    "rin": {
+        "name": "아오쿠모 린",
+        "count": 3
+    },
+    "nana": {
+        "name": "하나코 나나",
+        "count": 0
+    },
+    "riko": {
+        "name": "유즈하 리코",
+        "count": 7
+    },
+    "test": {
+        "name": "테스트",
+        "count": 3
+    }
+}
